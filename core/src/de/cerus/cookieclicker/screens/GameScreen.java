@@ -350,20 +350,20 @@ public class GameScreen implements Screen {
         camera.setToOrtho(false, width, height);
     }
 
-    @Override
-    public void pause() {
+//     @Override
+//     public void pause() {
 
-    }
+//     }
 
-    @Override
-    public void resume() {
+//     @Override
+//     public void resume() {
 
-    }
+//     }
 
-    @Override
-    public void hide() {
+//     @Override
+//     public void hide() {
 
-    }
+//     }
 
     @Override
     public void dispose() {
